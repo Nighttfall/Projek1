@@ -1,5 +1,5 @@
 # Projek1 - Formulir Data Toko
-Project ini merupakan aplikasi yang dibuat menggunakan NetBeans sebagai tugas kuliah/pribadi.
+Project ini merupakan aplikasi yang dibuat menggunakan NetBeans sebagai tugas kuliah mata kuliah pemrograman 2.
 
 ## 📌 Fitur
 - Halaman login serta fitur manajemen data pelanggan, barang, supplier, pembelian, dan penjualan.
